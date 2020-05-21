@@ -34,7 +34,9 @@ The code was to be enabled for the following:
  ![image](https://user-images.githubusercontent.com/60849864/82563539-2c972700-9b6f-11ea-83b7-c0e5cb84e0c2.png)
  
  
- # OOP features employed in this project
+ # Features employed in this project
+ 
+ * OOP:
  
  1. Template functions and classes.
  
@@ -42,6 +44,7 @@ The code was to be enabled for the following:
  
  3. Functors
  
+* OpenMP OPTIMIZATION
 
  # COMPILATION
  
