@@ -17,7 +17,7 @@ See the documentation file for a more detailed description of the project.
 
 # Project Overview
 
-The aim of this project was to implement a code which verifies if a set of triangulation points from a " tri file " and " node file" fulfilled the delaunay triangulation criteria. 
+The aim of this project was to implement a code which verifies if a set of triangulation points from a " .TRI file " and " .NODE file" fulfilled the delaunay triangulation criteria. 
 
 The code was to be enabled for the following:
  
