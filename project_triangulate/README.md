@@ -47,7 +47,7 @@ The code was to be enabled for the following:
  
  The code was developed to be compiled in a UNIX envrionment using the instructions:
  
-          g++ -o main.exe project_triangulation.cpp
+          g++ -O3-o main.exe project_triangulation.cpp
 
           main.exe
  
