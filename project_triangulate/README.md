@@ -52,5 +52,5 @@ The code was to be enabled for the following:
  
           g++ -O3-o main.exe project_triangulation.cpp
 
-          main.exe
+          ./main.exe
  
