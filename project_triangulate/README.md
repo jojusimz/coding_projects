@@ -1,5 +1,5 @@
 
-# DELAUNAY TRIGULATION PROJECT 
+# DELAUNAY TRIANGULATION PROJECT 
 
 **Triangulation** is the decomposition of 2D geometrical planar object P into a set of triangles. It involves finding a set of triangles with pairwise non-intersecting interiors whose union geometrically approximates P.
 
